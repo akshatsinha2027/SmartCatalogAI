@@ -67,6 +67,6 @@ CatBoost
 KMeans
 ## Metrics
 SMAPE
-                                        n
-                            100/n   X   ∑   2|y true  -  y pred|/|y true| + |y pred|
-                                        i=1
+                                        
+                            100/n  X  ∑   2|y true  -  y pred|/|y true| + |y pred|
+                                        
