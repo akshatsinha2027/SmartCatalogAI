@@ -68,5 +68,5 @@ KMeans
 ## Metrics
 SMAPE
                                         
-                            100/n  X  ∑   2|y true  -  y pred|/|y true| + |y pred|
+                            100/n * ∑ (2*|y true  -  y pred|)/(|y true| + |y pred|)
                                         
